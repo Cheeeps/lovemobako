@@ -178,12 +178,12 @@
         position: absolute;
         color: #800f2f;
         font-size:30px;
-        line-height:2;
+        line-height:1;
         text-align: center;
         width:380px;
         left:10px;
         z-index:3;
-        top:200px;
+        top:210px;
         animation: up 1s ease forwards;
         transition: .2s;
       }
